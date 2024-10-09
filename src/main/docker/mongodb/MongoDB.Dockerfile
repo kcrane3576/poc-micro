@@ -1,2 +1,1 @@
-FROM mongo:3.4.10
-ADD mongodb/scripts/init_replicaset.js init_replicaset.js
+RlJPTSBtb25nbzozLjQuMTBAc2hhMjU2OmI4NGJhZWZmZDBmMTRiZWJhZjA1N2IzNmRlOTQxNGVlNDE1ODRhODk3MzUxNzk1ZjRhMzg4OTI1N2NmMTliNmQKQUREIG1vbmdvZGIvc2NyaXB0cy9pbml0X3JlcGxpY2FzZXQuanMgaW5pdF9yZXBsaWNhc2V0LmpzCg==
